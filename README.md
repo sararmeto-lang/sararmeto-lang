@@ -2,9 +2,10 @@
 
 [Nunify](https://www.nunify.com/) is an all-in-one event technology platform for virtual, hybrid, and in-person events.
 
-### Our Top Event Solutions:
-* 🌐 **[Virtual Event Platform](https://www.nunify.com/virtual-event-platform/)** - Create immersive online experiences.
-* 📱 **[Mobile Event App](https://www.nunify.com/mobile-event-app/)** - Engagement for attendees in their pockets.
-* 🎟️ **[Event Ticketing & Registration](https://www.nunify.com/event-registration-software/)** - Seamless onboarding for every guest.
+### 🛠️ Our Core Event Solutions:
+* 🎟️ **[Event Registration Software](https://www.nunify.com/event-registration-software)** - Seamless attendee onboarding and ticketing.
+* 📱 **[Mobile Event App](https://www.nunify.com/event-app)** - The #1 engagement tool for your attendees.
+* 🏢 **[Enterprise Event App](https://www.nunify.com/enterprise-event-app)** - Secure, scalable solutions for large-scale corporate events.
+* 📍 **[Event Check-In App](https://www.nunify.com/event-check-in-app)** - Fast, contactless on-site check-in and badge printing.
 
-Check out our latest industry tips on the [Nunify Blog](https://www.nunify.com/blog/).
+Check out our latest industry tips and guides on the [Nunify Blog](https://www.nunify.com/blog/).
